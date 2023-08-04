@@ -11,11 +11,14 @@ and distribution, distribution of other features and multivariate analysis.
 with themselves as well as with the value to be predicted
 
 ## Data wrangling
-○ Conversion of data into numeric data types to be able to perform operations on them
+○ Conversion of data into numeric data types to be able to perform operations.
+
 ○ Renaming columns to make sense
 ○ Dropping unnecessary columns
+
 ○ One-hot/binary encoding on the nominal features of the dataset - education and marital
 status
+
 ○ Scaling of data - Using standardization to limit the values between [1, -1] and make their
 mean approximately zero.
 
